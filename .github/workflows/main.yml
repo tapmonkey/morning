@@ -26,7 +26,7 @@ jobs:
       APP_ID: ${{ wx1abc5d4e516e738f }}
       APP_SECRET: ${{ 2d1dfc350af382836fb8e4f147174bcd }}
       TEMPLATE_ID: ${{ qbfqBoP4LJd7CWHvWW3bOiYVR-J7dlobQrTep604K7U }}
-      USER_ID: ${{ gh_f818b6661971 }}
+      USER_ID: ${{ obK3o64s-x7UyKUueQmk5WK2dNyw }}
       START_DATE: ${{ 2024-06-06 }}
       BIRTHDAY: ${{ 01-02 }}
       CITY: ${{ 长春 }}
